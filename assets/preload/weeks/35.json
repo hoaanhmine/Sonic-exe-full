@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"fatality",
+			"fatal-sonic",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "ERROR",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Fatal Error",
+	"weekName": "Fatality",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

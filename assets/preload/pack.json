@@ -1,0 +1,7 @@
+{
+	"name": "Sonic.EXE futagami port",
+	"description": "A Port of Sonic.EXE futagami build",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [22, 83, 214]
+}

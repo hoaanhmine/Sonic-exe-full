@@ -1,0 +1,26 @@
+{
+	"storyName": "pokemon",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Shocker",
+			"icon-sonichu",
+			[
+				254,
+				226,
+				107
+			]
+		]	
+	],
+	"difficulties": "pikachu!",
+	"hideStoryMode": true,
+	"weekName": ""
+}

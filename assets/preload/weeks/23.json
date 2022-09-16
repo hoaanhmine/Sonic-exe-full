@@ -1,0 +1,26 @@
+{
+	"storyName": "Satan",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Perdition",
+			"icon-satanos",
+			[
+				224,
+				0,
+				0
+			]
+		]		
+	],
+	"difficulties": "Satanic",
+	"hideStoryMode": true,
+	"weekName": ""
+}

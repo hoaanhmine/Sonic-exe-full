@@ -1,0 +1,53 @@
+{
+	"storyName": "LORD X",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Execution",
+			"icon-soylent",
+			[
+				17,
+				17,
+				25
+			]
+		],
+		[
+			"Cycles",
+			"icon-soylent",
+			[
+				17,
+				17,
+				25
+			]
+		],
+		[
+			"Fate",
+			"icon-soylent",
+			[
+				17,
+				17,
+				25
+			]
+		],		
+		[
+			"Hellbent",
+			"icon-soylent",
+			[
+				17,
+				17,
+				25
+			]
+		]		
+	],
+	"difficulties": "Hell",
+	"hideStoryMode": false,
+	"weekName": "LordX"
+}

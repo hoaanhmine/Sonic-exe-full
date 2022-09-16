@@ -1,0 +1,35 @@
+{
+	"storyName": "TailsDoll",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Sunshine",
+			"icon-taildoll",
+			[
+				202,
+				136,
+				1
+			]
+		],
+		[
+			"Soulless",
+			"icon-tailsdoll_P2",
+			[
+				255,
+				153,
+				0
+			]
+		]		
+	],
+	"difficulties": "Hard",
+	"hideStoryMode": false,
+	"weekName": "TailsDoll"
+}

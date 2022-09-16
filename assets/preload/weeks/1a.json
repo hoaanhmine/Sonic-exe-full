@@ -1,0 +1,35 @@
+{
+	"storyName": "Majin",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Endless",
+			"icon-majin",
+			[
+				1,
+				2,
+				214
+			]
+		],
+		[
+			"Endeavours",
+			"icon-majin",
+			[
+				1,
+				2,
+				214
+			]
+		]		
+	],
+	"difficulties": "INFINITE",
+	"hideStoryMode": false,
+	"weekName": "Fun Is Infinite"
+}

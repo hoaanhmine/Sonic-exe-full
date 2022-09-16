@@ -1,0 +1,26 @@
+{
+	"storyName": "Curse",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Malediction",
+			"icon-curse-happy",
+			[
+				28,
+				32,
+				61
+			]
+		]	
+	],
+	"difficulties": "Cursed",
+	"hideStoryMode": false,
+	"weekName": "Curse"
+}

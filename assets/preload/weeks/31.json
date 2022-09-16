@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"my-reaction",
+			"majin-og",
+			[
+				0,
+				0,
+				215
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

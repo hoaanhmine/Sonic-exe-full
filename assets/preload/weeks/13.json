@@ -1,0 +1,35 @@
+{
+	"storyName": "Hog",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Hedge",
+			"icon-hog",
+			[
+				28,
+				45,
+				166
+			]
+		],
+		[
+			"Manual-Blast",
+			"icon-hog",
+			[
+				28,
+				45,
+				166
+			]
+		]		
+	],
+	"difficulties": "Hard",
+	"hideStoryMode": false,
+	"weekName": "Hog"
+}

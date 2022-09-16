@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-22,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-25,
+				-9
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing"
+		},
+		{
+			"offsets": [
+				-25,
+				-10
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing"
+		},
+		{
+			"offsets": [
+				-25,
+				-9
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing"
+		},
+		{
+			"offsets": [
+				-24,
+				-8
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MajinReaction",
+	"position": [
+		310,
+		35
+	],
+	"healthicon": "majin-og",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		215
+	],
+	"camera_position": [
+		-330,
+		-105
+	],
+	"sing_duration": 6,
+	"scale": 1.4
+}

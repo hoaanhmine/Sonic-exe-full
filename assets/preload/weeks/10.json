@@ -1,0 +1,26 @@
+{
+	"storyName": "Goddess",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Goddess",
+			"icon-sally",
+			[
+				101,
+				48,
+				31
+			]
+		]	
+	],
+	"difficulties": "Hard",
+	"hideStoryMode": true,
+	"weekName": ""
+}

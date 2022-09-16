@@ -1,0 +1,266 @@
+{
+	"song": {
+		"events": [
+			[
+				42130.5555555556,
+				[
+					[
+						"Play Animation",
+						"Revaled",
+						"dad"
+					]
+				]
+			],
+			[
+				42555.5555555556,
+				[
+					[
+						"Image Flash",
+						"black",
+						"1.6"
+					]
+				]
+			],
+			[
+				42763.4408602151,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicexe"
+					]
+				]
+			],
+			[
+				42860.2150537635,
+				[
+					[
+						"Change Character",
+						"2",
+						"GF_hedhehog"
+					]
+				]
+			],
+			[
+				42956.9892473118,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-encore"
+					]
+				]
+			],
+			[
+				44215.0537634409,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"0"
+					]
+				]
+			],
+			[
+				44408.6021505376,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"0"
+					]
+				]
+			],
+			[
+				44602.1505376344,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"0"
+					]
+				]
+			],
+			[
+				44795.6989247312,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"0"
+					]
+				]
+			],
+			[
+				44989.247311828,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"0"
+					]
+				]
+			],
+			[
+				45182.7956989247,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"0"
+					]
+				]
+			],
+			[
+				45376.3440860215,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"0"
+					]
+				]
+			],
+			[
+				45763.4408602151,
+				[
+					[
+						"Play Animation",
+						"end",
+						"dad"
+					]
+				]
+			],
+			[
+				93081.0189178311,
+				[
+					[
+						"Change Character",
+						"dad",
+						"EXE_animation"
+					]
+				]
+			],
+			[
+				93115.3046321168,
+				[
+					[
+						"Lyrics",
+						"i am... gonna catch...--#484FB1",
+						"1.2"
+					]
+				]
+			],
+			[
+				94623.8760606882,
+				[
+					[
+						"Lyrics",
+						"yaaaaa!--#FF0007",
+						"0.5"
+					]
+				]
+			],
+			[
+				96338.1617749739,
+				[
+					[
+						"Lyrics",
+						"i am...--#484FB1",
+						"0.9"
+					]
+				]
+			],
+			[
+				98052.4474892596,
+				[
+					[
+						"Lyrics",
+						"GOD!--#FF0007",
+						"1.1"
+					]
+				]
+			],
+			[
+				99921.0189178311,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicexe"
+					]
+				]
+			],
+			[
+				103281.018917831,
+				[
+					[
+						"Close Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135268.133763769,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"0"
+					]
+				]
+			],
+			[
+				135610.990906626,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"0"
+					]
+				]
+			],
+			[
+				135953.848049484,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"0"
+					]
+				]
+			],
+			[
+				136296.705192341,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"0"
+					]
+				]
+			],
+			[
+				136639.562335198,
+				[
+					[
+						"Play Animation",
+						"end",
+						"dad"
+					]
+				]
+			],
+			[
+				146125.276620912,
+				[
+					[
+						"sonicspook",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

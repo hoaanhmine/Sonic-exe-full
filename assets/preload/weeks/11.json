@@ -1,0 +1,26 @@
+{
+	"storyName": "Chaos",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Chaos",
+			"icon-fleetway",
+			[
+				254,
+				209,
+				0
+			]
+		]	
+	],
+	"difficulties": "super",
+	"hideStoryMode": false,
+	"weekName": "Chaos"
+}

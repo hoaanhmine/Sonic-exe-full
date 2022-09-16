@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				73538,
+				[
+					[
+						"Play Animation",
+						"transformation",
+						"dad"
+					]
+				]
+			],
+			[
+				73538.4615384615,
+				[
+					[
+						"Play Animation",
+						"transformation",
+						"0"
+					]
+				]
+			],
+			[
+				75846,
+				[
+					[
+						"Change Scroll Speed",
+						"1.3",
+						"2"
+					]
+				]
+			],
+			[
+				75846.1538461538,
+				[
+					[
+						"Song Speed Change",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88769,
+				[
+					[
+						"Change Character",
+						"1",
+						"beast_chaotix"
+					]
+				]
+			],
+			[
+				88769.2307692307,
+				[
+					[
+						"Change Character",
+						"1",
+						"beast_chaotix"
+					]
+				]
+			]
+		]
+	}
+}

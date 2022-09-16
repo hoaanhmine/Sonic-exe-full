@@ -1,0 +1,26 @@
+{
+	"storyName": "Encore!",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Endless Encore!",
+			"icon-majin-og",
+			[
+				1,
+				2,
+				214
+			]
+		]	
+	],
+	"difficulties": "Encore!",
+	"hideStoryMode": true,
+	"weekName": ""
+}

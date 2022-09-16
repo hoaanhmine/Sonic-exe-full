@@ -1,0 +1,53 @@
+{
+	"storyName": "Horizon",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"My-Horizon-Final",
+			"icon-chaotix-pixel",
+			[
+				214,
+				25,
+				82
+			]
+		],
+		[
+			"My-Horizon-Armydrillo",
+			"icon-chaotix-pixel",
+			[
+				214,
+				25,
+				82
+			]
+		],	
+		[
+			"My-Horizon-Obsolete",
+			"icon-chaotix-pixel",
+			[
+				214,
+				25,
+				82
+			]
+		],			
+		[
+			"My-Horizon-Wechidna",
+			"icon-chaotix-wechidna",
+			[
+				156,
+				9,
+				45
+			]
+		]	
+	],
+	"difficulties": "Hard",
+	"hideStoryMode": true,
+	"weekName": ""
+}

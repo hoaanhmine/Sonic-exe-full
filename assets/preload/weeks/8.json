@@ -1,0 +1,26 @@
+{
+	"storyName": "B4cksl4sh",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"B4cksl4sh",
+			"icon-sl4sh-pixel",
+			[
+				78,
+				49,
+				34
+			]
+		]	
+	],
+	"difficulties": "Hard",
+	"hideStoryMode": true,
+	"weekName": ""
+}

@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Too-Slow",
+			"sonicexe",
+			[
+				0,
+				63,
+				132
+			]
+		],
+		[
+			"You-cant-run",
+			"ycr",
+			[
+				22,
+				13,
+				135
+			]
+		],
+		[
+			"Triple-trouble",
+			"beast",
+			[
+				94,
+				31,
+				130
+			]
+		],
+		[
+			"Final-escape",
+			"exe",
+			[
+				0,
+				63,
+				132
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Sonic.EXE",
+	"weekName": "Sonic.EXE",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

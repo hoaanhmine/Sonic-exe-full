@@ -1,0 +1,26 @@
+{
+	"storyName": "sped",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"too-fest",
+			"icon-sanic",
+			[
+				0,
+				32,
+				66
+			]
+		]	
+	],
+	"difficulties": "Sped",
+	"hideStoryMode": false,
+	"weekName": "Sped"
+}

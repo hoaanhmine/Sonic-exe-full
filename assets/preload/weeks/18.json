@@ -1,0 +1,26 @@
+{
+	"storyName": "Merry Christmas!",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Slaybells",
+			"icon-sonicexe",
+			[
+				0,
+				63,
+				132
+			]
+		]		
+	],
+	"difficulties": "Hard",
+	"hideStoryMode": true,
+	"weekName": ""
+}

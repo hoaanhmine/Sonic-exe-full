@@ -1,0 +1,26 @@
+{
+	"storyName": "Amy",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Iron-forest",
+			"icon-bf-old",
+			[
+				137,
+				86,
+				86
+			]
+		]	
+	],
+	"difficulties": "Dead",
+	"hideStoryMode": true,
+	"weekName": ""
+}

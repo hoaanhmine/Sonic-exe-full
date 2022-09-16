@@ -1,0 +1,44 @@
+{
+	"storyName": "Faker",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Faker",
+			"icon-faker",
+			[
+				19,
+				19,
+				76
+			]
+		],
+		[
+			"Black Sun",
+			"icon-fakerEXE",
+			[
+				27,
+				13,
+				91
+			]
+		],
+		[
+			"Godspeed",
+			"icon-fakerEXE",
+			[
+				27,
+				13,
+				91
+			]
+		]		
+	],
+	"difficulties": "Hard",
+	"hideStoryMode": false,
+	"weekName": "Faker"
+}

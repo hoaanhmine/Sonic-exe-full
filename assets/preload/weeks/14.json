@@ -1,0 +1,26 @@
+{
+	"storyName": "Voided",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Hollow",
+			"icon-devoid",
+			[
+				11,
+				0,
+				121
+			]
+		]		
+	],
+	"difficulties": "Void",
+	"hideStoryMode": true,
+	"weekName": ""
+}

@@ -1,0 +1,35 @@
+{
+	"storyName": "Needlemouse",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Round-a-bout",
+			"icon-needlemouse",
+			[
+				96,
+				72,
+				143
+			]
+		],
+		[
+			"Relax",
+			"icon-needlemouse",
+			[
+				96,
+				72,
+				143
+			]
+		]		
+	],
+	"difficulties": "Hard",
+	"hideStoryMode": false,
+	"weekName": "Needlemouse"
+}

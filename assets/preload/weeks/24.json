@@ -1,0 +1,35 @@
+{
+	"storyName": "Sunky",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Milk",
+			"icon-sunky",
+			[
+				38,
+				72,
+				251
+			]
+		],	
+		[
+			"Cool-Party",
+			"icon-sunky",
+			[
+				38,
+				72,
+				251
+			]
+		]	
+	],
+	"difficulties": "Fun",
+	"hideStoryMode": false,
+	"weekName": "Sunky"
+}

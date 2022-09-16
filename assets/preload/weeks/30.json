@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Personel-Serious",
+			"icon-coldsteel",
+			[
+				131,
+				63,
+				134
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "serious",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

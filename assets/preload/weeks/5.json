@@ -1,0 +1,26 @@
+{
+	"storyName": "BURN",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Burning",
+			"icon-monster",
+			[
+				27,
+				39,
+				50
+			]
+		]	
+	],
+	"difficulties": "Burnt",
+	"hideStoryMode": true,
+	"weekName": ""
+}

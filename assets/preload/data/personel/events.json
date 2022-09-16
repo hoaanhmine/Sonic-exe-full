@@ -1,0 +1,416 @@
+{
+	"song": {
+		"events": [
+			[
+				315.789473684211,
+				[
+					[
+						"nolyrics",
+						"Psssh...--C000FF",
+						"0.8"
+					]
+				]
+			],
+			[
+				1300.15789473684,
+				[
+					[
+						"nolyrics",
+						"Nothing Personnel--C000FF",
+						"1.1"
+					]
+				]
+			],
+			[
+				2526.31578947368,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				2556.31578947368,
+				[
+					[
+						"nolyrics",
+						"Kid!--C000FF",
+						"1"
+					]
+				]
+			],
+			[
+				2763.15789473684,
+				[
+					[
+						"Close nolyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41763.1578947368,
+				[
+					[
+						"nolyrics",
+						"DO NOT STEAL!--C000FF",
+						"1.1"
+					]
+				]
+			],
+			[
+				42868.4210526316,
+				[
+					[
+						"Close nolyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				50842.1052631579,
+				[
+					[
+						"nolyrics",
+						"SHUT UP FINGERLESS--C000FF",
+						"1.1"
+					]
+				]
+			],
+			[
+				51789.4736842105,
+				[
+					[
+						"nolyrics",
+						"GLOVES LOOK BADASS--C000FF",
+						"2"
+					]
+				]
+			],
+			[
+				53052.6315789473,
+				[
+					[
+						"Close nolyrics",
+						"",
+						" "
+					]
+				]
+			],
+			[
+				80863,
+				[
+					[
+						"nolyrics",
+						"I call this one:--C000FF",
+						"1.1"
+					]
+				]
+			],
+			[
+				82342.1052631578,
+				[
+					[
+						"nolyrics",
+						"Your mother!--C000FF",
+						"1.1"
+					]
+				]
+			],
+			[
+				83289.4736842104,
+				[
+					[
+						"Close nolyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				83368.4210526315,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-fucked"
+					]
+				]
+			],
+			[
+				89999.9999999999,
+				[
+					[
+						"nolyrics",
+						"Fuck you Kevin stop--C000FF",
+						"1.1"
+					]
+				]
+			],
+			[
+				91026.3157894736,
+				[
+					[
+						"nolyrics",
+						"showing everyone--C000FF",
+						"1.1"
+					]
+				]
+			],
+			[
+				91736.8421052631,
+				[
+					[
+						"nolyrics",
+						"my devian art--C000FF",
+						"0.8"
+					]
+				]
+			],
+			[
+				92921.0526315789,
+				[
+					[
+						"nolyrics",
+						"you piece of shit!--C000FF",
+						"0.8"
+					]
+				]
+			],
+			[
+				93473.6842105262,
+				[
+					[
+						"Close nolyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102236.842105263,
+				[
+					[
+						"nolyrics",
+						"THIS GOES OUT--C000FF",
+						"1.1"
+					]
+				]
+			],
+			[
+				102947.368421053,
+				[
+					[
+						"nolyrics",
+						"TO YOU MOM!--C000FF",
+						"1.1"
+					]
+				]
+			],
+			[
+				103500,
+				[
+					[
+						"Close nolyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103578.947368421,
+				[
+					[
+						"Change Character",
+						"bf",
+						"keith"
+					]
+				]
+			],
+			[
+				110842.105263158,
+				[
+					[
+						"nolyrics",
+						"Oh what's that?--C000FF",
+						"1.1"
+					]
+				]
+			],
+			[
+				112421.052631579,
+				[
+					[
+						"nolyrics",
+						"Sorry punk, couldn't hear ya.--C000FF",
+						"1.4"
+					]
+				]
+			],
+			[
+				114315.789473684,
+				[
+					[
+						"nolyrics",
+						"See if you haven't noticed yet already,--C000FF",
+						"1.5"
+					]
+				]
+			],
+			[
+				116121.578947368,
+				[
+					[
+						"nolyrics",
+						"i've only got one good ear.--C000FF",
+						"1.5"
+					]
+				]
+			],
+			[
+				118421.052631579,
+				[
+					[
+						"nolyrics",
+						"By the way, in case you were wondering--C000FF",
+						"1.5"
+					]
+				]
+			],
+			[
+				119684.210526316,
+				[
+					[
+						"nolyrics",
+						"its cause like I lost in battle one--C000FF",
+						"1.7"
+					]
+				]
+			],
+			[
+				121421.052631579,
+				[
+					[
+						"nolyrics",
+						"so yeah that's the reason why--C000FF",
+						"1.5"
+					]
+				]
+			],
+			[
+				122546.315789474,
+				[
+					[
+						"nolyrics",
+						"so stop asking me about it already--C000FF",
+						"1.6"
+					]
+				]
+			],
+			[
+				124303.105263158,
+				[
+					[
+						"nolyrics",
+						"its been like 10 fucking years--C000FF",
+						"1.5"
+					]
+				]
+			],
+			[
+				125636.210526316,
+				[
+					[
+						"nolyrics",
+						"also, shut the fuck up earrings aren't gurly--C000FF",
+						"1.6"
+					]
+				]
+			],
+			[
+				127578.947368421,
+				[
+					[
+						"nolyrics",
+						"they're super badass and punk--C000FF",
+						"1.1"
+					]
+				]
+			],
+			[
+				128605.263157895,
+				[
+					[
+						"nolyrics",
+						"eat shit khaoskid663--C000FF",
+						"1.3"
+					]
+				]
+			],
+			[
+				130421.052631579,
+				[
+					[
+						"nolyrics",
+						"give me back my shiny moltres you fu--C000FF",
+						"1.7"
+					]
+				]
+			],
+			[
+				132705.526315789,
+				[
+					[
+						"nolyrics",
+						"anyways check this out...--C000FF",
+						"1.2"
+					]
+				]
+			],
+			[
+				133815.789473684,
+				[
+					[
+						"Close nolyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				133894.736842105,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				156710.52631579,
+				[
+					[
+						"nolyrics",
+						"Follow me on newgrounds!--C000FF",
+						"1.1"
+					]
+				]
+			],
+			[
+				158467.368421053,
+				[
+					[
+						"Close nolyrics",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

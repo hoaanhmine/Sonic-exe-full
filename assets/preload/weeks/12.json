@@ -1,0 +1,35 @@
+{
+	"storyName": "Luther",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Bloody-Stream",
+			"icon-luthernew",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Confronting",
+			"icon-luthernew",
+			[
+				0,
+				0,
+				255
+			]
+		]		
+	],
+	"difficulties": "Hard",
+	"hideStoryMode": false,
+	"weekName": "Luther"
+}

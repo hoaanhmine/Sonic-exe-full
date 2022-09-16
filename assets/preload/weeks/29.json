@@ -1,0 +1,26 @@
+{
+	"storyName": "Coldsteel",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Personel",
+			"icon-coldsteel",
+			[
+				131,
+				63,
+				134
+			]
+		]		
+	],
+	"difficulties": "Badass",
+	"hideStoryMode": true,
+	"weekName": ""
+}

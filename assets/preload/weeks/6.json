@@ -1,0 +1,26 @@
+{
+	"storyName": "Friend",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Mania",
+			"icon-secret",
+			[
+				223,
+				144,
+				81
+			]
+		]	
+	],
+	"difficulties": "BEST-FRIENDS",
+	"hideStoryMode": true,
+	"weekName": ""
+}

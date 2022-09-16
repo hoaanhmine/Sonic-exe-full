@@ -1,0 +1,26 @@
+{
+	"storyName": "Endless",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Endless-og",
+			"icon-majin-og",
+			[
+				1,
+				2,
+				214
+			]
+		]	
+	],
+	"difficulties": "Infinite",
+	"hideStoryMode": true,
+	"weekName": ""
+}

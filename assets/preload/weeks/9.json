@@ -1,0 +1,26 @@
+{
+	"storyName": "Fast",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Gotta-go",
+			"icon-soylent",
+			[
+				0,
+				0,
+				0
+			]
+		]	
+	],
+	"difficulties": "Hard",
+	"hideStoryMode": true,
+	"weekName": ""
+}

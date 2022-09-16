@@ -1,0 +1,35 @@
+{
+	"storyName": "Endless 2",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Endless-jp",
+			"icon-majin",
+			[
+				118,
+				0,
+				214
+			]
+		],
+		[
+			"Endless-us",
+			"icon-majin",
+			[
+				9,
+				157,
+				7
+			]
+		]		
+	],
+	"difficulties": "Party",
+	"hideStoryMode": true,
+	"weekName": ""
+}

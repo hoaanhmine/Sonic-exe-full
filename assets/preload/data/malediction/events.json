@@ -1,0 +1,206 @@
+{
+	"song": {
+		"events": [
+			[
+				67000,
+				[
+					[
+						"Change Character",
+						"1",
+						"curse_nervous"
+					],
+					[
+						"Lyrics",
+						"Something's wrong...--343b71",
+						"1.3"
+					]
+				]
+			],
+			[
+				68750,
+				[
+					[
+						"Lyrics",
+						"You all hide it from me!--343b71",
+						"1.5"
+					]
+				]
+			],
+			[
+				70000,
+				[
+					[
+						"Close Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88750,
+				[
+					[
+						"Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89125,
+				[
+					[
+						"Lyrics",
+						"Just... Admit it!--343b71",
+						"1.1"
+					]
+				]
+			],
+			[
+				89875,
+				[
+					[
+						"Close Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Change Character",
+						"1",
+						"curse_pissed"
+					]
+				]
+			],
+			[
+				106000,
+				[
+					[
+						"Change Character",
+						"1",
+						"curse_nervous"
+					]
+				]
+			],
+			[
+				110000,
+				[
+					[
+						"Change Character",
+						"1",
+						"curse_pissed"
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Change Character",
+						"1",
+						"curse_nervous"
+					]
+				]
+			],
+			[
+				118000,
+				[
+					[
+						"Change Character",
+						"1",
+						"curse_pissed"
+					]
+				]
+			],
+			[
+				148875,
+				[
+					[
+						"Lyrics",
+						"Things are...--343d71",
+						"1.4"
+					]
+				]
+			],
+			[
+				150375,
+				[
+					[
+						"Lyrics",
+						"Ok?...--343d71",
+						"1.4"
+					],
+					[
+						"Change Character",
+						"1",
+						"curse_nervous"
+					]
+				]
+			],
+			[
+				152000,
+				[
+					[
+						"Lyrics",
+						"Then...--343d71",
+						"0.7"
+					]
+				]
+			],
+			[
+				153000,
+				[
+					[
+						"Lyrics",
+						"Can we...--343d71",
+						"0.7"
+					]
+				]
+			],
+			[
+				154000,
+				[
+					[
+						"Lyrics",
+						"Try again?--343d71",
+						"2"
+					]
+				]
+			],
+			[
+				155375,
+				[
+					[
+						"Lyrics",
+						"Yeah!--31b0d1",
+						"1"
+					],
+					[
+						"Change Character",
+						"1",
+						"curse_happy"
+					],
+					[
+						"Hey!",
+						"BF",
+						""
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Close Lyrics",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

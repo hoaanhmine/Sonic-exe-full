@@ -1,0 +1,26 @@
+{
+	"storyName": "Requital",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Forestall-desire",
+			"icon-requital",
+			[
+				0,
+				0,
+				0
+			]
+		]	
+	],
+	"difficulties": "Hard",
+	"hideStoryMode": true,
+	"weekName": ""
+}
