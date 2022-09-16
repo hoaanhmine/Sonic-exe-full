@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Notes.png">
+<TextureAtlas imagePath="STATICNOTE_assets.png">
 	<!-- Created with Adobe Animate version 21.0.3.38773 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="blue0000" x="0" y="0" width="166" height="163"/>

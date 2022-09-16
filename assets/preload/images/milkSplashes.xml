@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="sunky_splash.png">
+<TextureAtlas imagePath="milkSphlashes.png">
 	<!-- Created with Adobe Animate version 22.0.5.191 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="note splash blue 10000" x="0" y="0" width="215" height="253" frameX="-90" frameY="-119" frameWidth="491" frameHeight="542"/>

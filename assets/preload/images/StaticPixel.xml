@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Static.png">
+<TextureAtlas imagePath="StaticPixel.png">
 	<!-- Created with Adobe Animate version 18.0.1.115 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Static0000" x="2" y="2" width="533" height="300"/>
